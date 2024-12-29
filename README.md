@@ -33,13 +33,11 @@ Make sure you have the following installed:
    ```
 5. Open `Predicting bike rentals using machine learning algorithms.ipynb` and run the cells sequentially.
 
-### File Description
-
+## File Description
 - **`Predicting bike rentals using machine learning algorithms.ipynb`**: The main notebook containing data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and predictions.
 - **`requirements.txt`**: A list of dependencies required to run the notebook.
 
-### Dataset
-
+## Dataset
 The dataset used for this project includes features such as:
 
 - **Date and Time**
@@ -52,8 +50,7 @@ The dataset used for this project includes features such as:
 
 Ensure you have the dataset in the expected format and directory as mentioned in the notebook.
 
-### Outputs
-
+## Outputs
 - Predicted bike rental counts
 - Model evaluation metrics such as RMSE, R-squared, etc.
 - Visualizations for data insights and model performance
